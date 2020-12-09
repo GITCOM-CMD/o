@@ -1,6 +1,6 @@
 const website_title = "Alreena and Cyriac"
 const description = "Alreena and Cyriac's wedding"
-const website_domain = "https://cyriac.alreena.com"
+const website_domain = "https://zealous-knuth-3f71d4.netlify.app"
 const codes = ['190119', '192619', '260119']
 
 module.exports = {
